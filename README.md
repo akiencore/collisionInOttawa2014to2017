@@ -8,9 +8,10 @@ My Honours Project in Carleton University from July 2018 to December 2018.
 
 ****
 
-Purpose: Based on car collisions happened in Ottawa city, Ontario, Canada from 2014 to 2017, analyze possible causes and combinations of causes that might lead to more vehicle collisions. 
+* Purpose: 
+ * Based on car collisions happened in Ottawa city, Ontario, Canada from 2014 to 2017, analyze possible causes and combinations of causes that might lead to more vehicle collisions. 
 
-Programming Language: 
+* Programming Language: 
   * HTML
   * Python
 

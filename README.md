@@ -1,6 +1,6 @@
 # collisionInOttawa2014to2017
 
-![alt text]https://github.com/akiencore/collisionInOttawa2014to2017/blob/master/HP_Abstract.png
+![alt text](https://github.com/akiencore/collisionInOttawa2014to2017/blob/master/HP_Abstract.png)
 
 My Honours Project in Carleton University from July 2018 to December 2018. 
 

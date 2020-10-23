@@ -10,9 +10,9 @@ My Honours Project in Carleton University from July 2018 to December 2018.
 
 Purpose: Based on car collisions happened in Ottawa city, Ontario, Canada from 2014 to 2017, analyze possible causes and combinations of causes that might lead to more vehicle collisions. 
 
-*Programming Language: 
-  *HTML
-  *Python
+* Programming Language: 
+  * TML
+  * Python
 
 Tools/Packages Used: Jupyter Notebook, Microsoft Office Excel, pandas, numpy, matplotlib, sklearn, plotly, etc. 
 

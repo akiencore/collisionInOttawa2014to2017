@@ -2,14 +2,16 @@
 
 ![alt text](https://github.com/akiencore/collisionInOttawa2014to2017/blob/master/HP_Abstract.png)
 
+Page of Researching Results: https://akiencore.github.io/HPIntegration_Analysis.html
+
 My Honours Project in Carleton University from July 2018 to December 2018. 
 
-Abstract from Carleton University School of Computer Science: https://service.scs.carleton.ca/content/honours-project-lairu-wu-december-18-2018-843am
+****
 
+Purpose: Based on car collisions happened in Ottawa city, Ontario, Canada from 2014 to 2017, analyze possible causes and combinations of causes that might lead to more vehicle collisions. 
 
-Purpose: Based on car collisions happened from 20134 to 2017, analyze possible causes and/or combinations of causes that lead to vehicle collisions in Ottawa. 
+Programming Language: HTML, Python
 
+Tools/Packages Used: Jupyter Notebook, Microsoft Office Excel, pandas, numpy, matplotlib, sklearn, plotly, etc. 
 
-This page include the process of how to organize collected information, analyze data, find out relationships between possible causes of collisions, and my conclusion.
-
-https://akiencore.github.io/HPIntegration_Analysis.html
+Abstract of this project from the homepage of Carleton University School of Computer Science: https://service.scs.carleton.ca/content/honours-project-lairu-wu-december-18-2018-843am

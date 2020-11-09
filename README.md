@@ -6,6 +6,8 @@
 
 * Page of Researching Results: 
   * https://akiencore.github.io/HPIntegration_Analysis.html
+* A prediction application to predict the number of vehicle collisions in Ottawa: 
+  * https://akiencore.github.io/HPPrediction.html
 
 <br/> 
 
